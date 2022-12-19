@@ -1,4 +1,4 @@
-module github.com/StephanSchmidt/EasyPgJson
+module github.com/stephanschmidt/easypgjson
 
 go 1.19
 
