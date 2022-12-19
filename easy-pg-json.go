@@ -1,4 +1,4 @@
-package lib
+package easypgjson
 
 func FindClosingBrace(s []rune, pos int) int {
 	level := 0

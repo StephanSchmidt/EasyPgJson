@@ -1,4 +1,4 @@
-package lib
+package easypgjson
 
 import (
 	"github.com/stretchr/testify/assert"
